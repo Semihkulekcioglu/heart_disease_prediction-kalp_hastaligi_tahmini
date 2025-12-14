@@ -27,6 +27,12 @@ Bu projede kalp hastalığı tahmini için **6 farklı makine öğrenmesi algori
 - **Yeniden kullanılabilir kod** modüler yapıda
 - **Profesyonel dokümantasyon** ve temiz kod
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1a92fbcf-5dc2-4170-83f1-45089fa98ae1" width="400" />
+  <img src="https://github.com/user-attachments/assets/7667bf29-cbcf-4e19-b2d1-ec50b63132da" width="400" />
+  <img src="https://github.com/user-attachments/assets/11b2a060-de8d-4385-a0d5-67047547c93e" width="600" />
+</p>
+
 ## 📁 Proje Yapısı
 
 ```
