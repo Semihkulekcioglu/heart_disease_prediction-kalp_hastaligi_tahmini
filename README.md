@@ -71,19 +71,6 @@ jupyter notebook
 
 **Recommended:** Run `notebooks/08_model_karsilastirma.ipynb` to train and compare all 6 models at once!
 
-## 📈 Model Performance
-
-| Model               | Accuracy | Precision | Recall | F1-Score | ROC-AUC |
-|---------------------|----------|-----------|--------|----------|---------|
-| Logistic Regression | 0.82     | 0.83      | 0.80   | 0.81     | 0.88    |
-| k-NN                | 0.85     | 0.84      | 0.86   | 0.85     | 0.90    |
-| Decision Tree       | 0.78     | 0.75      | 0.82   | 0.78     | 0.80    |
-| Random Forest       | 0.88     | 0.89      | 0.87   | 0.88     | 0.93    |
-| LightGBM            | 0.90     | 0.91      | 0.89   | 0.90     | 0.95    |
-| XGBoost             | 0.89     | 0.90      | 0.88   | 0.89     | 0.94    |
-
-🏆 **Best Model:** LightGBM with 90% accuracy and 0.95 ROC-AUC
-
 ## 📊 Dataset
 
 **Heart Disease Dataset** contains 303 patient records with 14 attributes:
