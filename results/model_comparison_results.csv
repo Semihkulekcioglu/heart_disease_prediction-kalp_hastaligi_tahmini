@@ -1,0 +1,7 @@
+,train_accuracy,test_accuracy,test_precision,test_recall,test_f1,test_roc_auc,training_time
+Random Forest,1.0,0.7377,0.7895,0.7895,0.7895,0.7815,0.1797
+k-Nearest Neighbors,0.8017,0.7213,0.7561,0.8158,0.7848,0.7855,0.0062
+LightGBM,0.9959,0.7049,0.7632,0.7632,0.7632,0.754,2.9265
+Logistic Regression,0.781,0.6885,0.7436,0.7632,0.7532,0.7723,0.0074
+XGBoost,1.0,0.6885,0.7568,0.7368,0.7467,0.7449,2.2554
+Decision Tree,1.0,0.623,0.7273,0.6316,0.6761,0.6201,0.0159

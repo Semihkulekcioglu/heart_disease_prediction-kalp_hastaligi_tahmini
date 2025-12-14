@@ -1,0 +1,4 @@
+# Bu dosya sadece referans için - kalan notebook'ları hızlıca oluşturmak için kullanacağım
+# kNN, Decision Tree, Random Forest, LightGBM, XGBoost notebook'ları oluşturulacak
+
+

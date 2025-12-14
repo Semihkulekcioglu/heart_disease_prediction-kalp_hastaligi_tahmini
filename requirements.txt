@@ -1,0 +1,24 @@
+# Veri İşleme ve Analiz
+numpy==1.24.3
+pandas==2.0.3
+scikit-learn==1.3.0
+
+# Görselleştirme
+matplotlib==3.7.2
+seaborn==0.12.2
+plotly==5.15.0
+
+# Machine Learning Algoritmaları
+xgboost==1.7.6
+lightgbm==4.0.0
+
+# Jupyter Notebook
+jupyter==1.0.0
+ipykernel==6.25.0
+ipywidgets==8.1.0
+
+# Yardımcı Kütüphaneler
+joblib==1.3.2
+scipy==1.11.1
+
+
