@@ -70,19 +70,6 @@ jupyter notebook
 
 **Önerilen:** `notebooks/08_model_karsilastirma.ipynb` dosyasını çalıştırarak 6 modeli aynı anda eğitin ve karşılaştırın!
 
-## 📈 Model Performansları
-
-| Model               | Accuracy | Precision | Recall | F1-Score | ROC-AUC |
-|---------------------|----------|-----------|--------|----------|---------|
-| Logistic Regression | 0.82     | 0.83      | 0.80   | 0.81     | 0.88    |
-| k-NN                | 0.85     | 0.84      | 0.86   | 0.85     | 0.90    |
-| Decision Tree       | 0.78     | 0.75      | 0.82   | 0.78     | 0.80    |
-| Random Forest       | 0.88     | 0.89      | 0.87   | 0.88     | 0.93    |
-| LightGBM            | 0.90     | 0.91      | 0.89   | 0.90     | 0.95    |
-| XGBoost             | 0.89     | 0.90      | 0.88   | 0.89     | 0.94    |
-
-🏆 **En İyi Model:** LightGBM - %90 doğruluk ve 0.95 ROC-AUC
-
 ## 📊 Veri Seti
 
 **Kalp Hastalığı Veri Seti** 303 hasta kaydı ve 14 özellik içerir:
