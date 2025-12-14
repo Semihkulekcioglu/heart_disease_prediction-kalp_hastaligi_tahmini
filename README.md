@@ -27,6 +27,11 @@ This project implements and compares **6 different machine learning algorithms**
 - **Reusable code** in modular structure
 - **Professional documentation** and clean code
 
+<img width="416" height="416" alt="2" src="https://github.com/user-attachments/assets/1a92fbcf-5dc2-4170-83f1-45089fa98ae1" />
+<img width="416" height="416" alt="1" src="https://github.com/user-attachments/assets/11b2a060-de8d-4385-a0d5-67047547c93e" />
+<img width="416" height="416" alt="3" src="https://github.com/user-attachments/assets/7667bf29-cbcf-4e19-b2d1-ec50b63132da" />
+
+
 ## 📁 Project Structure
 
 ```
